@@ -14,6 +14,16 @@ This project:
 
 ---
 
+## 📘 Learning Outcomes
+In this project, I practiced:
+
+- Taking user input in Python
+- Working with numbers and percentages
+- Basic arithmetic operations
+- Formatting output using f-strings
+
+---
+
 ## ▶️ How to Run
 
 Make sure Python is installed, then run:
